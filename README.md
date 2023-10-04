@@ -14,7 +14,7 @@ Desafio para recriar layout pronto no Figma para fortalecer alguns conceitos apr
 
 
 <p align="center">
-  <img alt="Projeto site de pacotes de viagens" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto site de pacotes de viagens" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
